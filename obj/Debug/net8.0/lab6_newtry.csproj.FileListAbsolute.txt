@@ -1,0 +1,14 @@
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/bin/Debug/net8.0/lab6_newtry
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/bin/Debug/net8.0/lab6_newtry.deps.json
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/bin/Debug/net8.0/lab6_newtry.runtimeconfig.json
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/bin/Debug/net8.0/lab6_newtry.dll
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/bin/Debug/net8.0/lab6_newtry.pdb
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.AssemblyInfoInputs.cache
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.AssemblyInfo.cs
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.csproj.CoreCompileInputs.cache
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.dll
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/refint/lab6_newtry.dll
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.pdb
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.genruntimeconfig.cache
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/ref/lab6_newtry.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "msH+bPE2su24LjcCIupZ0ptlHc4WE+xbF+IG/LB2NCXapS4W4qS7jd9bUP5aQ8qWgMH0mf7DQuHAuIGycUcNiw==",
+  "success": true,
+  "projectFilePath": "/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/lab6_newtry.csproj",
+  "expectedPackageFiles": [
+    "/home/fedor/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.32/microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

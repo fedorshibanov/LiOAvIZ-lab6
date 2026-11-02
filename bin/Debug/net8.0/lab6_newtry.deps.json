@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab6_newtry/1.0.0": {
+        "runtime": {
+          "lab6_newtry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab6_newtry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
