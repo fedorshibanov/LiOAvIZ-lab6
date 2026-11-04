@@ -89,7 +89,7 @@ namespace Library
                     for (int j = 0; j < size+1; j++)
                     {
                         int newColumn = (j == vertex1 || j == vertex2) ? 0 : column++;
-                        newMatrix[0, newColumn] = matrix[i, j] == 1 ? 1 : newMatrix[0, newColumn];
+                        newMatrix[0, newColumn] = matrix[i, j] == 1 ? 1 : newMatrix[0, newColumn]; //oleg
                         newMatrix[newColumn, 0] = newMatrix[0, newColumn];
                     }
                 }
@@ -130,7 +130,7 @@ namespace Library
             if (err)
                 return matrix;
             
-            newMatrix[0, 0] = 1;
+            newMatrix[0, 0] = matrix[vertex1, vertex1] == 1 || matrix[vertex2, vertex2] == 1 ? 1 : 0;
 
             return newMatrix;
         }

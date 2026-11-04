@@ -12,3 +12,4 @@
 /home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.pdb
 /home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.genruntimeconfig.cache
 /home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/ref/lab6_newtry.dll
+/home/fedor/study/psu/3semestr/LiOAvIZ/lab6_newtry/obj/Debug/net8.0/lab6_newtry.sourcelink.json
